@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Animation/Content/SkywardMuffin/Characters/Muffin/SK_Muffin.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Animation/Content/SkywardMuffin/Characters/Muffin/BP_Muffin.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Animation/Content/SkywardMuffin/Animation/MuffinAnimation.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Animation/Content/SkywardMuffin/Animation/ABP_Muffin.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Animation/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Idle.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Animation/Content/SkywardMuffin/Animation/BS_IdleWalk.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Animation/Content/SkywardMuffin/Maps/TutorialMap.umap",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Animation/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Death.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Animation/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Fall.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Animation/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Jump.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Animation/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Skeleton.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Animation/Content/SkywardMuffin/Characters/Muffin/SK_Muffin_Walk.uasset"
+			]
+		}
+	]
+}
