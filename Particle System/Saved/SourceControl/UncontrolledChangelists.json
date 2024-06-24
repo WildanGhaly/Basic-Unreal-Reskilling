@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Particle System/Content/SpaceshipBattle/Blueprints/BP_Player.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Particle System/Content/SpaceshipBattle/Maps/TutorialMap.umap",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Particle System/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Particle System/Content/SpaceshipBattle/Materials/M_Particle.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Particle System/Content/SpaceshipBattle/ParticleSystems/PS_Explosion.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Particle System/Content/SpaceshipBattle/Blueprints/BP_Enemy.uasset"
+			]
+		}
+	]
+}
