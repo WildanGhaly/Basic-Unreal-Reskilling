@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Materials/Content/BananaCollector/Materials/MI_Banana_Green.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Materials/Content/BananaCollector/Materials/M_Banana.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Materials/Content/BananaCollector/Materials/M_Cube.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Materials/Content/BananaCollector/Blueprints/BP_Player.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Materials/Content/BananaCollector/Maps/TutorialMap.umap",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Materials/Content/BananaCollector/Materials/MI_Banana_Purple.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Materials/Content/BananaCollector/Materials/MI_Banana_Red.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/Materials/Content/BananaCollector/Materials/MI_Banana_Blue.uasset"
+			]
+		}
+	]
+}
