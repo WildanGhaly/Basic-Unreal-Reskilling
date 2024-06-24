@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/BananaCollector/Content/BananaCollector/Blueprints/BP_Player.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/BananaCollector/Content/BananaCollector/Blueprints/GM_Tutorial.uasset",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/BananaCollector/Content/BananaCollector/Maps/TutorialMap.umap",
+				"D:/Documents/Agate/Project/Unreal Basic Reskilling/BananaCollector/Content/BananaCollector/Blueprints/BP_Banana.uasset"
+			]
+		}
+	]
+}
